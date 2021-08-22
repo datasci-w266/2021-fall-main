@@ -18,25 +18,28 @@ Understanding language is fundamental to human interaction. Our brains have evol
 
 **Contacts and resources:**
 * Course website: [GitHub datasci-w266/2021-fall-main](../../../)
-* [Piazza](https://piazza.com/) - we'll use this for Q&A, and this will be the fastest way to reach the course staff. Note that you can post anonymously, and/or make posts visible only to instructors for private questions.
+* [Piazza](https://piazza.com/berkeley/fall2021/datasciw266) - we'll use this for Q&A, and this will be the fastest way to reach the course staff. Note that you can post anonymously, and/or make posts visible only to instructors for private questions.
 * Email list for course staff (expect a somewhat slower response here): [mids-nlp-instructors@googlegroups.com](mailto:mids-nlp-instructors@googlegroups.com)
 
 **Live Sessions:**
-* (Section 1) Monday 6:30 - 8p Pacific ()
-* (Section 2) Tuesday 2 - 3:30p Pacific ()
-* (Section 3) Tuesday 4 - 5:30p Pacific ()
-* (Section 4) Wednesday 6:30 - 8p Pacific ()
-* (Section 5) Thursday 4 - 5:30p Pacific () 
-* (Section 6) Friday 4 - 5:30p Pacific ()
+* (Section 5) Monday 4:00 - 5:30p Pacific (Joachim Rahmfeld)
+* (Section 6) Monday 6:30 - 8p Pacific (Joachim Rahmfeld)
+* (Section 7) Tuesday 2 - 3:30p Pacific (Peter Grabowski)
+* (Section 2) Tuesday 4 - 5:30p Pacific (Daniel Cer)
+* (Section 1) Wednesday 6:30 - 8p Pacific (Mike Tamir/Paul Spiegelhalter)
+* (Section 3) Thursday 4 - 5:30p Pacific (Mark Butler) 
+
 
 **Teaching Staff Office Hours:**
 
-* **Mark Butler**: Monday at 1pm PST and Friday immediately after his live session
+* **Mark Butler**: Friday at 1pm PST
 * **Daniel Cer**: Friday at noon PST
 * **Peter Grabowski**: Tuesday at 1pm PST
-* **Joachim Rahmfeld**: Wednesday at noon PST
+* **Joachim Rahmfeld**: Tuesday at noon PST
 * **Mike Tamir/Paul Spiegelhalter**: Wednesday immediately after his live session
 * **Gurdit Chahal**: Tuesday at 3pm PST
+* **Justin Jeng**: TBD
+* **Sandip Panesar**: TBD
 
 Office hours are for the whole class; students from any section are welcome to attend any of the times above.
 
@@ -140,7 +143,7 @@ We'll update the table below with assignments as they become available, as well 
 
 *Dates are tentative:* assignments in particular may change topics and dates.  (Updated slides for each week will be posted during the live session week.)
 
-### Live Session Slides: [[available with @berkeley.edu address](https://drive.google.com/drive/folders/)]
+### Live Session Slides: [[available with @berkeley.edu address](https://drive.google.com/drive/folders/16oIv9FcORTJqiZ093yB1jzsFL7s4Gg__?usp=sharing)]
 
 ### Deliverables
 
@@ -162,7 +165,7 @@ will be released around the last live session of the week and due approximately 
     <li>Google Cloud
   </ul></td>
   <td></td>
-  <td>TBD&nbsp;</td>
+  <td>Aug&nbsp;29</td>
 </tr>
 
 
@@ -451,7 +454,7 @@ will be released around the last live session of the week and due approximately 
 </tr>
 
  <tr>
-  <td><strong>Meeting</strong><br>(Nov&nbsp;8)</td>
+  <td><strong>Fall Break</strong><br>(Nov&nbsp;8)</td>
   <td>No Async</td>
     <td>No class</td>
   <td>No Readings</td>
