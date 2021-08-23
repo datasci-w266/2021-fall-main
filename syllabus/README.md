@@ -32,13 +32,13 @@ Understanding language is fundamental to human interaction. Our brains have evol
 
 **Teaching Staff Office Hours:**
 
-* **Mark Butler**: Friday at 1pm PST
+* **Mark Butler**: Friday at noon PST
 * **Daniel Cer**: Monday at noon PST
 * **Peter Grabowski**: Tuesday at 1pm PST
 * **Joachim Rahmfeld**: Tuesday at noon PST
 * **Mike Tamir/Paul Spiegelhalter**: Wednesday immediately after his live session
 * **Gurdit Chahal**: Wednesday at noon PST
-* **Justin Jeng**: TBD
+* **Justin Jeng**: Friday at 2pm PST
 * **Sandip Panesar**: Thursday at 1pm PST
 
 Office hours are for the whole class; students from any section are welcome to attend any of the times above.
