@@ -37,9 +37,9 @@ Understanding language is fundamental to human interaction. Our brains have evol
 * **Peter Grabowski**: Tuesday at 1pm PST
 * **Joachim Rahmfeld**: Tuesday at noon PST
 * **Mike Tamir/Paul Spiegelhalter**: Wednesday immediately after his live session
-* **Gurdit Chahal**: Tuesday at 3pm PST
+* **Gurdit Chahal**: Wednesday at noon PST
 * **Justin Jeng**: TBD
-* **Sandip Panesar**: TBD
+* **Sandip Panesar**: Thursday at 1pm PST
 
 Office hours are for the whole class; students from any section are welcome to attend any of the times above.
 
