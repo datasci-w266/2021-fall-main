@@ -168,6 +168,17 @@ will be released around the last live session of the week and due approximately 
   <td>Aug&nbsp;29</td>
 </tr>
 
+<tr> <!-- a1 -->
+  <td><strong><a href="../assignment/a1" target="_blank">Assignment&nbsp;1</a></strong>
+  <td><strong>Assignment 1</strong>
+  <ul>
+    <li>Information Theory
+	<li>Probability
+  </ul></td>
+  <td></td>
+  <td>Sep&nbsp;5</td>
+</tr>
+
 
 <tr> <!-- project proposal -->
   <td><strong><a href="../project/#project-proposal" target="_blank">Project&nbsp;Proposal</a></strong>
