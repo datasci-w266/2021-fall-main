@@ -5,7 +5,7 @@ This assignment consists of two notebooks:
 * [TensorFlow](TensorFlow.ipynb), in which we'll train our first deep neural network with TensorFlow / Keras
 * [answers](answers) file where you'll put all your answers
 
-You may want to review the notebook for [lesson 2](../../materials/lesson_notebooks/lesson_2.ipynb).
+You may want to review the notebook for [lesson 2](../../materials/lesson_notebooks/lesson_2_NN_intro.ipynb).
 
 ## Submission Instructions
 
