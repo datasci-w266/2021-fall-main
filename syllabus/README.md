@@ -190,6 +190,16 @@ will be released around the last live session of the week and due approximately 
   <td>Sep&nbsp;12</td>
 </tr>
 
+<tr> <!-- a3 -->
+  <td><strong><a href="../assignment/a3" target="_blank">Assignment&nbsp;3</a></strong>
+  <td><strong>Assignment 3</strong>
+  <ul>
+    <li>Embeddings
+    <li>ML Fairness
+  </ul></td>
+  <td></td>
+  <td>Sep&nbsp;19</td>
+</tr>
 
 <tr> <!-- project proposal -->
   <td><strong><a href="../project/#project-proposal" target="_blank">Project&nbsp;Proposal</a></strong>
