@@ -35,7 +35,7 @@ Understanding language is fundamental to human interaction. Our brains have evol
 * **Mark Butler**: Friday at noon PST
 * **Daniel Cer**: Monday at noon PST
 * **Peter Grabowski**: Tuesday at 1pm PST
-* **Joachim Rahmfeld**: Tuesday at noon PST
+* **Joachim Rahmfeld**: Tuesday at 5:30pm PST
 * **Mike Tamir/Paul Spiegelhalter**: Wednesday immediately after his live session
 * **Gurdit Chahal**: Wednesday at noon PST
 * **Justin Jeng**: Friday at 2pm PST
